@@ -1,5 +1,5 @@
-import Character from '../character';
-import Team from '../set';
+import Character from '../js/character';
+import Team from '../js/set';
 
 let vasya;
 
